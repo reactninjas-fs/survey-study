@@ -1,0 +1,18 @@
+body{
+    padding: 10px 40px 10px 40px; 
+    width: 75%;
+}
+.form-container input{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+.radio-button {
+    display: flex;
+}
+p{
+    width: 400px;
+}
+input{
+    background-color: rgba(128, 128, 128, 0.19);
+}
